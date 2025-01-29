@@ -1,4 +1,4 @@
-## Olá!👋
+## Prazer, meu nome é <span style="color: red;">Gabriel Goulart</span>
 
 ![snake gif](https://github.com/Flame77Ofc/Flame77Ofc/blob/output/github-contribution-grid-snake.gif)
 
