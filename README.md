@@ -1,5 +1,5 @@
 # Prazer, meu nome é Gabriel Goulart, tenho 14 anos e atualmente estou aprendendo JavaScript!
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cursoemvideo.com%2Fcurso%2Fjavascript%2F&psig=AOvVaw3a8dWxAR3t8ed8tKxI26B0&ust=1738258222449000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjayNG6m4sDFQAAAAAdAAAAABAE
+https://cdn.worldvectorlogo.com/logos/logo-javascript.svg
 ![snake gif](https://github.com/Flame77Ofc/Flame77Ofc/blob/output/github-contribution-grid-snake.gif)
 
 <!--
