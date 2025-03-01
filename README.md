@@ -5,4 +5,3 @@
 - ⚔ Todos os dias programando!👨🏻‍💻
 - ⚡ Gosto de: Astronomia 🪐, Xadrez ♟ e Programação 🖥
 
-![snake gif](https://github.com/Flame77Ofc/Flame77Ofc/blob/output/github-contribution-grid-snake.gif)
