@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente aprendendo JavaScript 🟨
 - 📌 Localização: Brasil, Santa Catarina, Blumenau.
-- 🎂 Nascimento: 14/06/2010
 - ⚔ Todos os dias programando!👨🏻‍💻
 - ⚡ Gosto de: Astronomia 🪐, Xadrez ♟ e Programação 🖥
 
@@ -18,7 +17,6 @@
 
 - 🌱 Currently learning JavaScript 🟨
 - 📌 Location: Brazil, Santa Catarina, Blumenau.
-- 🎂 Birthdate: 06/14/2010
 - ⚔ Programming every day! 👨🏻‍💻
 - ⚡ I like: Astronomy 🪐, Chess ♟, and Programming 🖥
 
