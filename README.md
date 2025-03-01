@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente aprendendo JavaScript 🟨
 - 📌 Localização: Brasil, Santa Catarina, Blumenau.
+- 🎂 Nascimento: 14/06/2010
 - ⚔ Todos os dias programando!👨🏻‍💻
 - ⚡ Gosto de: Astronomia 🪐, Xadrez ♟ e Programação 🖥
 
@@ -9,4 +10,4 @@
 22/10/2024: Comecei HTML e CSS
 25/12/2024: Terminei HTML e CSS
 05/01/2025: Comecei JavaScript
-01/03/2025: Acabei JavaScript
+Acabando JavaScript...
