@@ -7,10 +7,10 @@
 - ⚡ Gosto de: Astronomia 🪐, Xadrez ♟ e Programação 🖥
 
 ## Histórico de Datas:
-22/10/2024: Comecei HTML e CSS
-25/12/2024: Terminei HTML e CSS
-05/01/2025: Comecei JavaScript
-Acabando JavaScript...
+- 22/10/2024: Comecei HTML e CSS
+- 25/12/2024: Terminei HTML e CSS
+- 05/01/2025: Comecei JavaScript
+- Acabando JavaScript...
 
 # English:
 
@@ -23,7 +23,7 @@ Acabando JavaScript...
 - ⚡ I like: Astronomy 🪐, Chess ♟, and Programming 🖥
 
 ## Date History:
-10/22/2024: Started HTML and CSS 
-12/25/2024: Finished HTML and CSS
-01/05/2025: Started JavaScript
-03/01/2025: Finished JavaScript
+- 10/22/2024: Started HTML and CSS 
+- 12/25/2024: Finished HTML and CSS
+- 01/05/2025: Started JavaScript
+Finishing JavaScript
