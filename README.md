@@ -1,6 +1,5 @@
 # Hello, my name is Gabriel Goulart, I am 14 years old.
-
-- Learning right now:
+## Learning Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - 📌 Location: Brazil, Santa Catarina, Blumenau.
 - ⚡ I like: Science🔭, Astronomy🪐, Chess♟ and Programming🖥
