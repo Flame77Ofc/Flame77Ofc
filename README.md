@@ -35,11 +35,8 @@
 [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=JavaScript)](https://github.com/Flame77ofc/JavaScript)
 [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/html-css)
 
-
 ## Certificações
-
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/123456)
-
+[![Notion Page](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://https://www.notion.so/Certificados-1b2bd349b522806e9098d3a1040a280a)
 
 ## Ferramentas
 
