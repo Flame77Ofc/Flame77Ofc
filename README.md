@@ -1,7 +1,17 @@
-# Testando.
-# Minhas Redes Sociais
+# Hello, my name is Gabriel Goulart, I am 14 years old.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu_usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_usuario)
+- 🌱 Currently learning Python 🐍
+- 📌 Location: Brazil, Santa Catarina, Blumenau.
+- ⚔ Programming every day! 👨🏻‍💻
+- ⚡ I like: Astronomy 🪐, Chess ♟, and Programming 🖥
+
+## Date History:
+- 10/22/2024: Started HTML and CSS 
+- 12/25/2024: Finished HTML and CSS
+- 01/05/2025: Started JavaScript
+- 03/03/2025: Finished JavaScript
+- 03/06/2025: Started Python
+- 
+# My Social Medias
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgoulartbnu@gmail.com)
