@@ -36,7 +36,7 @@
 [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/html-css)
 
 ## Certificações
-[![Notion Page](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://https://www.notion.so/Certificados-1b2bd349b522806e9098d3a1040a280a)
+[![Notion Certificados](https://img.shields.io/badge/Notion_Certificados-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Certificados-1b2bd349b522806e9098d3a1040a280a)
 
 ## Ferramentas
 
