@@ -9,9 +9,6 @@
 - **03/03/2025:** Concluí JavaScript
 - **03/06/2025:** Comecei Python
 
-## Me Encontre:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgoulartbnu@gmail.com)
-
 ## Linguagens
 | Tecnologia                                                                                                      | Nível         |
 |-----------------------------------------------------------------------------------------------------------------|---------------|
@@ -20,6 +17,10 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)| Intermediário |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)| Básico        |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| Básico |
+
+## Fale Comigo:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgoulartbnu@gmail.com)
+
 
 ## Estatísticas  
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Flame77ofc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
