@@ -1,6 +1,5 @@
 # Gabriel Goulart | 14 anos  
-📍 **Localização:** Blumenau, Santa Catarina, Brasil  
-🔭 **Interesses:** ![Ciência](https://img.shields.io/badge/Ciência-4285F4?style=for-the-badge&logo=flask&logoColor=white)   ![Astronomia](https://img.shields.io/badge/Astronomia-8A2BE2?style=for-the-badge&logo=nasa&logoColor=white)    ![Xadrez](https://img.shields.io/badge/Xadrez-000000?style=for-the-badge&logo=chesscom&logoColor=white)    ![Programação](https://img.shields.io/badge/Programação-FF4500?style=for-the-badge&logo=code&logoColor=white)  
+![Brasil](https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=flag&logoColor=yellow)
 
 ## Linha do Tempo de Aprendizado
 
