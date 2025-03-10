@@ -1,8 +1,6 @@
 # Gabriel Goulart ⇒ 14 anos  
 ![Brazil](https://img.shields.io/badge/Brasil-009739?style=for-the-badge&logoColor=white)
 
-## Linha do Tempo de Aprendizado
-
 ## Linguagens
 | Tecnologia                                                                                                      | Nível         |
 |-----------------------------------------------------------------------------------------------------------------|---------------|
@@ -12,6 +10,7 @@
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)| Básico        |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| Básico |
 
+## Linha do Tempo de Aprendizado
 | Data        | Evento                 |
 |------------|------------------------|
 | **10/22/2024** | Comecei HTML e CSS   |
