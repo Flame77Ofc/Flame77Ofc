@@ -32,7 +32,9 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Flame77ofc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Best Projects
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=nome_do_repositorio)](https://github.com/Flame77ofc/nome_do_repositorio)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=Python)](https://github.com/Flame77ofc/nome_do_repositorio)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=JavaScript)](https://github.com/Flame77ofc/nome_do_repositorio)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/nome_do_repositorio)
 
 
 ## Certificações
