@@ -1,5 +1,5 @@
 # Gabriel Goulart | 14 anos  
-![Brasil](https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=flag&logoColor=yellow)
+![Brasil](https://img.shields.io/badge/Brasil-009739?style=for-the-badge&logoColor=white) 🇧🇷
 
 ## Linha do Tempo de Aprendizado
 
