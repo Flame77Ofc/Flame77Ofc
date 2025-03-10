@@ -1,16 +1,7 @@
-# Gabriel Goulart | 14 anos  
+# Gabriel Goulart ⇒ 14 anos  
 ![Brazil](https://img.shields.io/badge/Brasil-009739?style=for-the-badge&logoColor=white)
 
 ## Linha do Tempo de Aprendizado
-
-| Data        | Evento                 |
-|------------|------------------------|
-| **10/22/2024** | Comecei HTML e CSS   |
-| **12/25/2024** | Concluí HTML e CSS   |
-| **01/05/2025** | Comecei JavaScript   |
-| **03/03/2025** | Concluí JavaScript   |
-| **03/06/2025** | Comecei Python      |
-
 
 ## Linguagens
 | Tecnologia                                                                                                      | Nível         |
@@ -21,9 +12,13 @@
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)| Básico        |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| Básico |
 
-## Fale Comigo:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgoulartbnu@gmail.com)
-
+| Data        | Evento                 |
+|------------|------------------------|
+| **10/22/2024** | Comecei HTML e CSS   |
+| **12/25/2024** | Concluí HTML e CSS   |
+| **01/05/2025** | Comecei JavaScript   |
+| **03/03/2025** | Concluí JavaScript   |
+| **03/06/2025** | Comecei Python      |
 
 ## Estatísticas  
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Flame77ofc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
