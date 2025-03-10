@@ -2,12 +2,16 @@
 📍 **Localização:** Blumenau, Santa Catarina, Brasil  
 🔭 **Interesses:** Ciência, Astronomia, Xadrez, Programação
 
-## Linha do Tempo de Aprendizado:
-- **10/22/2024:** Comecei HTML e CSS
-- **12/25/2024:** Concluí HTML e CSS
-- **01/05/2025:** Comecei JavaScript
-- **03/03/2025:** Concluí JavaScript
-- **03/06/2025:** Comecei Python
+## Linha do Tempo de Aprendizado
+
+| Data        | Evento                 |
+|------------|------------------------|
+| **10/22/2024** | Comecei HTML e CSS   |
+| **12/25/2024** | Concluí HTML e CSS   |
+| **01/05/2025** | Comecei JavaScript   |
+| **03/03/2025** | Concluí JavaScript   |
+| **03/06/2025** | Comecei Python      |
+
 
 ## Linguagens
 | Tecnologia                                                                                                      | Nível         |
