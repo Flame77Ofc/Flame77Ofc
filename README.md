@@ -2,15 +2,12 @@
 📍 **Localização:** Blumenau, Santa Catarina, Brasil  
 🔭 **Interesses:** Ciência, Astronomia, Xadrez, Programação
 
-## Aprendendo Python  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ## Linha do Tempo de Aprendizado:
-- **Out 2024:** Comecei HTML e CSS
-- **Dez 2024:** Concluí HTML e CSS
-- **Jan 2025:** Comecei JavaScript
-- **Mar 2025:** Concluí JavaScript
-- **Mar 2025:** Comecei Python
+- **10/22/2024:** Comecei HTML e CSS
+- **12/25/2024:** Concluí HTML e CSS
+- **01/05/2025:** Comecei JavaScript
+- **03/03/2025:** Concluí JavaScript
+- **03/06/2025:** Comecei Python
 
 ## Me Encontre:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgoulartbnu@gmail.com)
