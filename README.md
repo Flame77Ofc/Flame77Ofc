@@ -1,6 +1,6 @@
 # Hello, my name is Gabriel Goulart, I am 14 years old.
 
--Learning RN: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Learning RN: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - 📌 Location: Brazil, Santa Catarina, Blumenau.
 - ⚔ Programming every day! 👨🏻‍💻
 - ⚡ I like: Science🔭, Astronomy🪐, Chess♟ and Programming🖥
@@ -32,9 +32,9 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Flame77ofc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Best Projects
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=Python)](https://github.com/Flame77ofc/nome_do_repositorio)
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=JavaScript)](https://github.com/Flame77ofc/nome_do_repositorio)
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/nome_do_repositorio)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=Python)](https://github.com/Flame77ofc/Python)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=JavaScript)](https://github.com/Flame77ofc/JavaScript)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/html-css)
 
 
 ## Certificações
