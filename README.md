@@ -3,7 +3,7 @@
 - 🌱 Currently learning Python 🐍
 - 📌 Location: Brazil, Santa Catarina, Blumenau.
 - ⚔ Programming every day! 👨🏻‍💻
-- ⚡ I like: Astronomy 🪐, Chess ♟, and Programming 🖥
+- ⚡ I like: Science🔭, Astronomy🪐, Chess♟ and Programming🖥
 
 ## Date History:
 - 10/22/2024: Started HTML and CSS 
@@ -26,3 +26,6 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Flame77ofc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
