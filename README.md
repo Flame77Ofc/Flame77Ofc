@@ -19,9 +19,6 @@
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=JavaScript)](https://github.com/Flame77ofc/JavaScript)  
 [![HTML/CSS](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/html-css)
 
-## Certificações  
-[![Notion Certificados](https://img.shields.io/badge/Notion_Certificados-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Certificados-1b2bd349b522806e9098d3a1040a280a)
-
 ## Ferramentas
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
