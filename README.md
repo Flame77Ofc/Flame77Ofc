@@ -5,10 +5,10 @@
 | Tecnologia                                                                                                      | Nível         |
 |-----------------------------------------------------------------------------------------------------------------|---------------|
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)| Avançado      |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)| Avançado      |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)| Intermediário |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)| Intermediário      |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)| Básico |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)| Básico        |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| Básico |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| Avançado |
 
 ## Estatísticas  
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Flame77ofc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
