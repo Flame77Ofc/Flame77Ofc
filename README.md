@@ -15,7 +15,7 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Flame77ofc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=PyTutorial)](https://github.com/Flame77ofc/python-tutorial)
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=python-tutorial)](https://github.com/Flame77ofc/python-tutorial)
 [![Python](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=Python)](https://github.com/Flame77ofc/Python)
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=JavaScript)](https://github.com/Flame77ofc/JavaScript)
 [![HTML/CSS](https://github-readme-stats.vercel.app/api/pin/?username=Flame77ofc&repo=html-css)](https://github.com/Flame77ofc/html-css)
