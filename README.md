@@ -1,4 +1,4 @@
-# Gabriel Goulart ⇒ 14 anos
+# Gabriel Goulart
 ![Brazil](https://img.shields.io/badge/Brasil-009739?style=for-the-badge&logoColor=white)
 
 ## Linguagens
