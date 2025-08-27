@@ -6,10 +6,12 @@
 
 ---
 
-## 🌍 Sobre mim  
-- 🔭 Explorando **Pentest e Programação**  
-- 🌌 Adoro Física, Penstesting e Investigação, Programação, Ciência, Filosofia, Matemática
-- 💭 Sonhos: Pentesting e Astrônomo
+## 🌍 Sobre mim
+<p style="text-align:center;">
+    - 🔭 Explorando **Pentest e Programação**  
+    - 🌌 Adoro Física, Penstesting e Investigação, Programação, Ciência, Filosofia, Matemática
+    - 💭 Sonhos: Pentesting e Astrônomo
+</p>
 
 ---
 
