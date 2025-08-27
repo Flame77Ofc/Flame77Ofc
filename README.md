@@ -13,6 +13,23 @@
 
 ---
 
+## 🚀 Objetivos e Sonhos  
+
+- 🛡️ Tornar-me **Pentester Profissional** para ajudar a fortalecer a segurança digital  
+- 🔭 Contribuir em projetos de **Astronomia e Ciência**  
+- 🤖 Criar robôs e explorar a **Inteligência Artificial**  
+- 📚 Continuar estudando **Filosofia, Matemática e Física**  
+- 👁️ A verdade está acima de tudo. Buscando compreender a Origem.
+
+## 📅 Minha Jornada  
+
+- 🚀 Comecei aprendendo **HTML e CSS** para criar páginas simples
+- 🟨 Avancei para **JavaScript**, mas logo vi que Web não era meu ponto forte
+- 🐍 Segui em frente com **Python** e hoje é minha linguagem favorita. **Fiz bots de automação, jogos simples em Pygame, páginas web com Streamlit, Scraping e Automação com requests, BeautifulSoup e Playwright e fiz mais de 300 exercícios**
+- 🎮 Testei **Godot** para criação de jogos, porém não me identifiquei
+- 🔐 Me apaixonei pela área de **Pentesting e Cibersegurança**, e agora este é o meu foco
+- 🎯 Hoje, meu foco é aprender **Hacking** como hobby, freelancer e profissional e **Astronomia** e **Religiões** para compreender o Universo.
+
 ## 📊 Estatísticas
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Flame77ofc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
@@ -46,7 +63,22 @@
 ## ⚡ Ferramentas  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🏆 Conquistas  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Flame77ofc&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Estatísticas Extras  
+
+![GitHub followers](https://img.shields.io/github/followers/Flame77ofc?style=for-the-badge)  
+![GitHub stars](https://img.shields.io/github/stars/Flame77ofc?style=for-the-badge)  
+![Commits](https://badges.pufler.dev/commits/monthly/Flame77ofc)
+
+# Teste
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-%23FF5733.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+
+## 🐍
 ![Snake animation](https://github.com/Flame77ofc/Flame77ofc/blob/output/github-contribution-grid-snake.svg)
-
