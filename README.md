@@ -65,20 +65,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🏆 Conquistas  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Flame77ofc&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔥 Estatísticas Extras  
-
-![GitHub followers](https://img.shields.io/github/followers/Flame77ofc?style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/Flame77ofc?style=for-the-badge)  
-![Commits](https://badges.pufler.dev/commits/monthly/Flame77ofc)
-
-# Teste
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Pentesting-%23FF5733.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-
 ## 🐍
 ![Snake animation](https://github.com/Flame77ofc/Flame77ofc/blob/output/github-contribution-grid-snake.svg)
