@@ -1,7 +1,7 @@
 # 🌌 Flame77Ofc
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=Sonho+de+ser+Pentester+e+Astrônomo;Apaixonado+por+Física+Ciência+Programação+Filosofia+e+Matemática" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=Flame;Paixão+Por+Estudar;Estudando+Para+Ser+Pentester+e+Astrônomo;" alt="Typing SVG" />
 </p>
 
 ---
