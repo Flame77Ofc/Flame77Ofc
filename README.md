@@ -1,15 +1,15 @@
 # 🌌 Flame77Ofc
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Pentester+%7C+Astrônomo+%7C+Filósofo;Criando+Bots+%26+Projetos+de+IA;Apaixonado+por+Tecnologia+e+Ciência" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Pentester;Apaixonado+Por+Ciência;Apaixonado+Por+Programação" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌍 Sobre mim  
-- 🔭 Explorando **Pentest, IA e Robótica**  
-- 🌌 Admirador do **Universo** e buscador de conhecimento  
-- 🎯 Sempre em evolução  
+- 🔭 Explorando **Pentest e Programação**  
+- 🌌 Adoro Física, Penstesting e Investigação, Programação, Ciência, Filosofia, Matemática
+- 💭 Sonhos: Pentesting e Astrônomo
 
 ---
 
@@ -24,10 +24,9 @@
 ## 🛠️ Tecnologias  
 | Tecnologia | Nível |
 |------------|-------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐⭐ |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐ |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ⭐⭐⭐ |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐ |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ⭐⭐ |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐⭐ |
 
 ---
